@@ -5,8 +5,8 @@ import sedans from '~/assets/icon-sedans.svg';
 import suvs from '~/assets/icon-suvs.svg';
 </script>
 
-<main class="flex items-center justify-center min-h-screen">
-  <div class="flex rounded-xl overflow-hidden">
+<main class="flex items-center justify-center min-h-screen py-12">
+  <div class="flex <lg:flex-col rounded-xl overflow-hidden">
     <Column
       color="#E28525"
       name="sedans"
